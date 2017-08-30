@@ -2,7 +2,7 @@
     <string name="app_name">Popular Movies</string>
 
     <!-- THE API KEY STORED AS STRING RESOURCE-->
-    <string name="moviedbapi">99f365beb584ada17299b99ada9c0222</string>
+    <string name="moviedbapi"></string>
 
     <string name="mostpopular">Most Popular</string>
     <string name="toprated">Top Rated</string>
