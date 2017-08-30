@@ -9,6 +9,7 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.ProgressBar;
+import android.widget.ScrollView;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -38,7 +39,7 @@ public class MovieDetails extends AppCompatActivity {
      TextView tv_duration;
      TextView tv_overview;
      ProgressBar pb_movie;
-     LinearLayout ln_details;
+     ScrollView ln_details;
      final String TAG = "deatailLog";
 
     @Override
